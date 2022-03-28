@@ -2,7 +2,7 @@
 
 <img align="right" src=".github/djn.png" width="300"/> 
 
-Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend Junior** na Samplemed.
+Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend**
 
 ## ✨ Curiosidades ✨
 
