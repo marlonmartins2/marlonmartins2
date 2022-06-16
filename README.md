@@ -1,5 +1,10 @@
 # Olá galerinha. 👋
 
+<table align="right">
+ <tr><td><a href="https://github.com/marlonmartins2/marlonmartins2/blob/master/english-readme.md">:us: English</a></td></tr>
+ <tr><td><a href="https://github.com/marlonmartins2/marlonmartins2/blob/master/README.md">:brazil: Português</a></td></tr>
+</table>
+
 <img align="right" src=".github/djn.png" width="300"/> 
 
 Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend**
@@ -31,4 +36,3 @@ Me chamo Marlon Martins, tenho 24 anos, moro em Santa Cruz-RJ, Estou cursando En
 
 ![⚯ Marlon Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonmartins2&show_icons=true&theme=tokyonight&show_owner=true)<br>
 
-[Aqui](https://github.com/marlonmartins2/marlonmartins2/blob/master/english-readme.md) você pode encontrar o "readme" em inglês americano.
