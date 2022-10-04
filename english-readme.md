@@ -2,7 +2,7 @@
 
 <img align="right" src=".github/djn.png" width="300"/> 
 
-My name is Marlon Martins, I'm 24 years old, I live in Santa Cruz - RJ, I'm studying Software Engineering and I'm currently a developer **Junior Backend** at Samplemed.
+My name is Marlon Martins, I'm 24 years old, I live in Santa Cruz - RJ, I'm studying Software Engineering and I'm currently a developer **Backend**.
 
 ## ✨ Curiosities ✨
 
