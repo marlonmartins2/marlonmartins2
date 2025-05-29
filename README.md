@@ -7,7 +7,7 @@
 
 <img align="right" src=".github/djn.png" width="300"/> 
 
-Me chamo Marlon Martins, tenho 25 anos, moro no RJ, Estou cursando Engenharia de Software e atualmente sou desenvolvedor **Backend**
+Me chamo Marlon Martins, tenho 25 anos, moro no RJ, Bacharel em Engenharia de Software e atualmente sou tech lead **Backend**
 
 ## ✨ Curiosidades ✨
 
